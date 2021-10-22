@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Internal medicine",
+        "id": 1,
+        "img" : "https://img.freepik.com/free-psd/medical-mock-up-with-capsules_23-2148478001.jpg?size=626&ext=jpg",
+        "description" : "Internal medicine doctors specialize in diagnosis, treatment, and prevention of disease in their adult patients. They are trained to offer care for a wide variety of health conditions and to counsel their patients on prevention and overall wellness."
+    },
+    {
+        "title": "Cardiology",
+        "id": 2,
+        "img" : "https://img.freepik.com/free-photo/3d-illustration-human-heart-cardiogram-digital-technologies-medicine_97716-85.jpg?size=626&ext=jpg",
+        "description" : "Cardiology focuses on the diagnosis and treatment of the cardiovascular system - heart, arteries, and veins. Your Cardiologist may order specialized testing to determine which treatment options are best for you."
+    },
+    {
+        "title": "Family practice",
+        "img" : "https://img.freepik.com/free-photo/visit-doctor-office-little-girl-with-mom_329181-7687.jpg?size=626&ext=jpg",
+        "id": 3,
+        "description" : "Family practice doctors provide care to people of all ages. These generalists treat chronic conditions, evaluate symptoms, offer preventative care, and let people know when they need to see a specialist. Family practice doctors often work in private office settings or with a group of other family practice doctors"
+    },
+    {
+        "title": "nephrology",
+        "img" : "https://img.freepik.com/free-photo/doctor-showing-wooden-model-kidney_253401-4767.jpg?size=626&ext=jpg",
+        "id": 4,
+        "description" : "Sometimes called renal medicine, nephrology is a specialty within the internal medicine field related to kidney care. It is often connected with hypertension or high blood pressure. Nephrologists are medical professionals who diagnose, treat, and manage acute and chronic kidney problems and diseases."
+    },
+    {
+        "title": "neurology",
+        "img" : "https://img.freepik.com/free-photo/brain-study-background-mental-health-care-medical-technology_53876-105237.jpg?size=626&ext=jpg",
+        "id": 5,
+        "description" : "Neurology is a medical specialty that addresses a wide range of neurological conditions that affect the brain, spinal cord, and nerves. Our neurologists work closely with neurosurgeons and other specialists to provide high standards of care for patients of all ages."
+    },
+    {
+        "title": "paediatrics",
+        "img" : "https://img.freepik.com/free-photo/i-show-you-how-it-work_329181-7679.jpg?size=626&ext=jpg",
+        "id": 6,
+        "description" : "Paediatricians are doctors who manage medical conditions affecting infants, children and young people. A hospital role covering children from birth to the age of 16. Most paediatricians have this generalist role. neonatology - this role specialises in looking after newly born babies."
+    }
+]

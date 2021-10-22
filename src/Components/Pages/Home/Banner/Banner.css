@@ -1,0 +1,8 @@
+.carousel-item img{
+    height: 500;
+    object-fit: cover;
+    object-position: center;
+}
+.carousel-caption{
+    color: black;
+}

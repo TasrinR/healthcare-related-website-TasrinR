@@ -1,0 +1,10 @@
+.service{
+    text-align: justify;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height : 330px;
+}
+.service-image{
+    object-fit: cover;
+    object-position: 0% 10%;
+}

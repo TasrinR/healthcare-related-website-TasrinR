@@ -1,0 +1,92 @@
+[
+    {
+        "name" : "Professor Dr. AKM Fazlul Hoque",
+        "id": 1,
+        "specialized" : "Colorectal Surgeon",
+        "experience" : "25 years",
+        "job" : "Eden Muli-Care Hospital",
+        "contact" : "01755-697173",
+        "description" : "Dr. AKM Fazlul Haque is the best doctor as a former student of Dhaka Medical College. At present, he practices his expertise at Eden Muli-Care Hospital. Located in 753 Satmasjid Road, Dhaka-1205, Bangladesh.",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/Prof.dr.Akmfazlulhaque.jpg"
+    },
+    {
+        "name" : "Professor Dr. Mahbub H Khan",
+        "id": 2,
+        "specialized" : "Gastroenterology",
+        "experience" : "21 years",
+        "job" : "Medinova Medical Services",
+        "contact" : "01911356298",
+        "description" : "Professor Dr. Mahbub H Khan is one of the most reputed Liver and Gastroenterology specialists in Bangladesh. He completed his MBBS with the highest-ranking result. He was awarded Leo Gold Medal for first place in the third professional examination.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPop761qWRxzhgz6fRvBBPDRNCwF31hH2fcYsjsA_-8N2hHuxbKp_TxzxSVyg5p-XexY&usqp=CAU"
+    },
+    {
+        "name" : "Dr. Mohammad Jahangir Talukder",
+        "id": 3,
+        "specialized" : "Cardiology, Neurology, Pulmonology",
+        "experience" : "40 years",
+        "job" : "United Hospital Ltd",
+        "contact" : "01755-697173",
+        "description" : "Dr. Mohammad Jahangir Talukder is a reputed Internal Medicine specialist in Bangladesh. He is experienced in the treatment of Acute medical emergency, Respiratory, Endocrine, and Infectious diseases.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6qQrX0beyD0FU_UWA8MLSTwj-avBhsIMQIX7AgG3rxj9e8xBLiRlSypEbEkt8DtMqvU&usqp=CAU"
+    },
+    {
+        "name" : "Professor Dr. Sheikh Nesaruddin Ahmed",
+        "id": 4,
+        "specialized" : "Internal Medicine & Reumatology",
+        "experience" : "11 years",
+        "job" : "Labaid Specialized Hospital LTD",
+        "contact" : "+88 02 9676356",
+        "description" : "Professor Dr. Sheikh Nesaruddin Ahmed is one of the best Internal Medicine & Reumatology in Bangladesh. He was the former professor and Head Department of Medicine, Dhaka Medical College Hospital.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHf8bo6ZoFyCgAX3ir0gZb3uS15AYY5VodpQ&usqp=CAU"
+    },
+    {
+        "name" : "Professor Dr. H A M Nazmul Ahsan",
+        "id": 5,
+        "specialized" : "Medicine",
+        "experience" : "20 years",
+        "job" : "Popular Diagnostic Center",
+        "contact" : "+8809613787801",
+        "description" : "Professor Dr. H A M Nazmul Ahsan is the reputed Medicine Specialist in Bangladesh. He is a professor in the Department of Medicine, Popular Medical College & Hospital, Dhaka.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFq0ZnEGrCim2rl8APePlOCURZSqVQqVEcjQdmeSWuqLD8W96JOoPvWYJDdR7L18sqVag&usqp=CAU"
+    },
+    {
+        "name" : "Professor Dr. Ferdous Ara J. Janan",
+        "id": 6,
+        "specialized" : "Medicine",
+        "experience" : "15 years",
+        "job" : "Popular Diagnostic Centre",
+        "contact" : "+880-2- 9111911",
+        "description" : "Dr. AKM Fazlul Haque is the best doctor as a former student of Dhaka Medical College. At present, he practices his expertise at Eden Muli-Care Hospital. Located in 753 Satmasjid Road, Dhaka-1205, Bangladesh.",
+        "img" : "https://doctoryouneed.org/wp-content/uploads/2020/01/1557718299.jpg"
+    },
+    {
+        "name" : "Professor Dr. A K M Musa",
+        "id": 7,
+        "specialized" : "Diabetologist",
+        "experience" : "25 years",
+        "job" : "Labaid Specialized Hospital",
+        "contact" : "+88 02 9676356",
+        "description" : "Professor Dr. A K M Musa is one of the well-known Diabetologist & Medicine Specialist in Bangladesh. He is the professor of the Department of Medicine, Ibrahim Medical College.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwl3NVMWmxDijSlb8jn0mYuRD-nrCMOT44cgMoGX6d0JHTtt1h3d2mZmczbqtuYBbZRuM&usqp=CAU"
+    },
+    {
+        "name" : "Professor Dr. R. K. Saha",
+        "id": 8,
+        "specialized" : "Medicine",
+        "experience" : "18 years",
+        "job" : "Uttara Crescent Hospital",
+        "contact" : "+88 01711245746",
+        "description" : "Professor Dr. R. K. Saha is another best Medicine Specialist in Bangladesh. He was the former Principal and Professor and Head Department of Medicine, Sher-E-Bangla Medical College, Barisal, and Uttara Women's Medical College Hospital, Dhaka.",
+        "img" : "https://doctoryouneed.org/wp-content/uploads/2019/10/Breast-Cance-81.jpg"
+    },
+    {
+        "name" : "Professor Dr. Mohiuddin Ahmed",
+        "id": 9,
+        "specialized" : "Medicine and Neuromedicine",
+        "experience" : "23 years",
+        "job" : "Popular Diagnostic Center",
+        "contact" : "09613 787805",
+        "description" : "Assistant Professor Dr. Mohiuddin Ahmed is one of the best-reputed Medicine and Neuromedicine Specialist in Bangladesh. Now, he is the Assistant Professor of Neurology, Dhaka Medical College Hospital, Dhaka.",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMWOwHyyDb2c0MWVrmSa4ucqKzCtYmcZstBdDoK8Me6UhQf-mLxQVmhLbSxuT9D8gwGdk&usqp=CAU"
+    }
+]
